@@ -1,0 +1,15 @@
+C:\GeakBrains\DZ-3\z-19\bin\Debug\net6.0\z-19.exe
+C:\GeakBrains\DZ-3\z-19\bin\Debug\net6.0\z-19.deps.json
+C:\GeakBrains\DZ-3\z-19\bin\Debug\net6.0\z-19.runtimeconfig.json
+C:\GeakBrains\DZ-3\z-19\bin\Debug\net6.0\z-19.dll
+C:\GeakBrains\DZ-3\z-19\bin\Debug\net6.0\z-19.pdb
+C:\GeakBrains\DZ-3\z-19\obj\Debug\net6.0\z-19.csproj.AssemblyReference.cache
+C:\GeakBrains\DZ-3\z-19\obj\Debug\net6.0\z-19.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeakBrains\DZ-3\z-19\obj\Debug\net6.0\z-19.AssemblyInfoInputs.cache
+C:\GeakBrains\DZ-3\z-19\obj\Debug\net6.0\z-19.AssemblyInfo.cs
+C:\GeakBrains\DZ-3\z-19\obj\Debug\net6.0\z-19.csproj.CoreCompileInputs.cache
+C:\GeakBrains\DZ-3\z-19\obj\Debug\net6.0\z-19.dll
+C:\GeakBrains\DZ-3\z-19\obj\Debug\net6.0\refint\z-19.dll
+C:\GeakBrains\DZ-3\z-19\obj\Debug\net6.0\z-19.pdb
+C:\GeakBrains\DZ-3\z-19\obj\Debug\net6.0\z-19.genruntimeconfig.cache
+C:\GeakBrains\DZ-3\z-19\obj\Debug\net6.0\ref\z-19.dll
