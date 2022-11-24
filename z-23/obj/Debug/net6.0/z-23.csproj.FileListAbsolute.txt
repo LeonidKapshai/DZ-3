@@ -1,0 +1,15 @@
+C:\GeakBrains\DZ-3\z-23\obj\Debug\net6.0\z-23.csproj.AssemblyReference.cache
+C:\GeakBrains\DZ-3\z-23\obj\Debug\net6.0\z-23.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeakBrains\DZ-3\z-23\obj\Debug\net6.0\z-23.AssemblyInfoInputs.cache
+C:\GeakBrains\DZ-3\z-23\obj\Debug\net6.0\z-23.AssemblyInfo.cs
+C:\GeakBrains\DZ-3\z-23\obj\Debug\net6.0\z-23.csproj.CoreCompileInputs.cache
+C:\GeakBrains\DZ-3\z-23\bin\Debug\net6.0\z-23.exe
+C:\GeakBrains\DZ-3\z-23\bin\Debug\net6.0\z-23.deps.json
+C:\GeakBrains\DZ-3\z-23\bin\Debug\net6.0\z-23.runtimeconfig.json
+C:\GeakBrains\DZ-3\z-23\bin\Debug\net6.0\z-23.dll
+C:\GeakBrains\DZ-3\z-23\bin\Debug\net6.0\z-23.pdb
+C:\GeakBrains\DZ-3\z-23\obj\Debug\net6.0\z-23.dll
+C:\GeakBrains\DZ-3\z-23\obj\Debug\net6.0\refint\z-23.dll
+C:\GeakBrains\DZ-3\z-23\obj\Debug\net6.0\z-23.pdb
+C:\GeakBrains\DZ-3\z-23\obj\Debug\net6.0\z-23.genruntimeconfig.cache
+C:\GeakBrains\DZ-3\z-23\obj\Debug\net6.0\ref\z-23.dll
